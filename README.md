@@ -4,10 +4,12 @@
 
 This project demonstrates discrete-event simulation using **SimPy** to model a multi-server queueing system, followed by machine learning regression analysis to predict system performance metrics from configuration parameters.
 
-**Student Name**: PUSHKAR MANOCHA
+**Student Name**: Pushkar Manocha
+
 **Roll Number**: 102303751 
+
 **Assignment**: PAS Assignment - Simulator Exploration & ML Model Comparison  
-**Date**: January 2026  
+
 **Simulator**: SimPy 4.1.1 (Discrete-Event Simulation Framework)
 
 ## Objectives
@@ -162,7 +164,8 @@ _Actual vs. Predicted values for the best-performing model with residual analysi
 
 ## Author
 
-**PUSHKAR MANOCHA**  
+**Pushkar Manocha**  
 Roll Number: 102303751  
 PAS Assignment - January 2026
+
 
